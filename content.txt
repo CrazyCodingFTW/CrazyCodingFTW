@@ -7,5 +7,5 @@ content
 
 conflict with the content!
 
-some changes made to the develop2 branch
+some changes made to the develop2 branch.
 
