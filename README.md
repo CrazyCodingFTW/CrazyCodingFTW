@@ -16,3 +16,5 @@ Now I addded changes to readMe MDDDdd :D
 NewhangesFromTheWeb
 
 Added something using git bash.
+
+Something is something in git Bash
