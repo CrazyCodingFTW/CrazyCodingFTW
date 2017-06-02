@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-TeasPhotos-S", "V-TeasPhotos-S\V-TeasPhotos-S.csproj", "{FBF7D48F-D1C3-4B62-B880-2DC0AF65D90C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-SentenceTheThief-S", "V-SentenceTheThief-S\V-SentenceTheThief-S.csproj", "{CC7A3A49-CA95-406F-9E31-9D80680D0819}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
