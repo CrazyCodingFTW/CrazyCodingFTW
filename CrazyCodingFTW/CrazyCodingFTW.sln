@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-SentenceTheThief-S", "V-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-BeerKegs-S", "V-BeerKegs-S\V-BeerKegs-S.csproj", "{75F4FADC-A63A-4F5F-A984-CEFB23064D6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-BracketsBalacne-S", "V-BracketsBalacne-S\V-BracketsBalacne-S.csproj", "{5D2BF378-F8AD-4876-8F67-966CAD7E887D}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
