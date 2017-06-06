@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-BracketsBalacne-S", "V-Br
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-PrimesInGivenRange-S", "V-PrimesInGivenRange-S\V-PrimesInGivenRange-S.csproj", "{A299A223-633D-407B-AB07-5FF8AD93CA62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-CenterPoint-S", "V-CenterPoint-S\V-CenterPoint-S.csproj", "{30590B31-5043-44C4-B379-95F5F0A6D521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A299A223-633D-407B-AB07-5FF8AD93CA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A299A223-633D-407B-AB07-5FF8AD93CA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A299A223-633D-407B-AB07-5FF8AD93CA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30590B31-5043-44C4-B379-95F5F0A6D521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30590B31-5043-44C4-B379-95F5F0A6D521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30590B31-5043-44C4-B379-95F5F0A6D521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30590B31-5043-44C4-B379-95F5F0A6D521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
