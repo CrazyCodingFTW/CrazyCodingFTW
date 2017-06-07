@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-MasterNumbers-S", "V-Mast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-BePositive-S", "V-BePositive-S\V-BePositive-S.csproj", "{F22C3B7E-E7AA-441E-AB1B-6171422DC5DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-SequenceOfCommands-S", "V-SequenceOfCommands-S\V-SequenceOfCommands-S.csproj", "{34D41DBD-EAA4-4620-8844-D1748DAB5406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F22C3B7E-E7AA-441E-AB1B-6171422DC5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F22C3B7E-E7AA-441E-AB1B-6171422DC5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F22C3B7E-E7AA-441E-AB1B-6171422DC5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D41DBD-EAA4-4620-8844-D1748DAB5406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D41DBD-EAA4-4620-8844-D1748DAB5406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D41DBD-EAA4-4620-8844-D1748DAB5406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D41DBD-EAA4-4620-8844-D1748DAB5406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
